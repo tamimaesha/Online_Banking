@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Global Banking ..</title>
+        <link href="style.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript">
+            function ctck()
+            {
+                var sds = document.getElementById("dum");
+
+            }
+        </script>
+
+    </head>
+
+    <body>
+
+        <div id="top_links">
+
+
+            <div id="header">
+                <h1>ABC - BANK<span class="style1"></span></h1>
+                <h2>ExtraOrdinary Service</h2>	
+
+            </div>
+
+            <div id="navigation">
+                <ul>
+                    <li><a href="create.html">NEW ACCOUNT</a></li>
+                    <li><a href="balance1.jsp">BALANCE</a></li>
+                    <li><a href="deposit1.jsp">DEPOSIT</a></li>
+                    <li><a href="withdraw1.jsp">WITHDRAW</a></li>
+                    <li><a href="transfer1.jsp">TRANSFER</a></li>
+                    <li><a href="closeac1.jsp">CLOSE A/C</a></li>
+                    <li><a href="about.jsp">ABOUT US</a></li>
+                </ul>
+            </div>
+
+            <table cellpadding="0" cellspacing="0" id="content1"><tr align="justify">
+                    <td class="con" valign="top">
+                        <div id="heade1"><h1>Results</h1></div>
+                        <p>This is  Global Business bank which is under business and finance category.ABC Bank offers personal banking solutions that fit your unique needs and help you reach your goals. Our online services provide you easy access to your money, on your time wherever you go!
+Whatever your financial needs may be, we have a solution for you.
+
+                        </p>
+                    </td>
+
+                    <td class="con" valign="top">
+                        <div id="heade2"><h1>Opportunities</h1></div>
+                        <p> These Global Business bank would be idle for building a successful online businesses. ABC Bank is a community bank that has proudly served the Chicago communities since 1891!.<br><br>
+
+                            The entire website   are pre-designed websites all you need to do is adding your own personal content and start your own website. 
+
+                        </p>
+                    </td>
+
+                    <td class="con" valign="top">
+                        <div id="heade3"><h1>Solutions</h1></div>
+                        <p>ABC Bank is a community bank that has proudly served the Chicago communities since 1891! We are a locally owned and managed institution, leveraging our grass roots experience to serve the social and economic needs of the communities we serve. At ABC Bank, we offer modern technologies, yet stay true to building and maintaining client relationships.</p>
+
+                    </td>
+                </tr></table>
+
+            <table style="width:897px; background:#FFFFFF; margin:0 auto;"><tr align="justify">
+                    <td width="299" valign="top" style="border-right:#666666 1px dotted;">
+                        <div id="services"><h1>Services</h1><br>
+                            <ul>
+                                <li><a href="#">www.ABC.com</a></li>
+                                <li><a href="#">www.ABC/HELP.com </a></li>
+                                <li><a href="#">www.ABC/CONTACT.com</a></li>
+                            </ul>
+
+                        </div>
+                    </td>
+
+                    <td width="299" valign="top">
+                        <div id="welcome" style="border-right:#666666 1px dotted;"><h1>Welcome</h1><br>
+                            <center><img src="images/globe_10.gif" alt="business" width="196" height="106"></center><br>
+                            <p>Each people can do their business with website a website help a businessman to expand there business easily and shortly .</p>
+
+                        </div>      
+                    </td>
+
+                    <td width="299" valign="top">
+                        <div id="news"><h1>News &amp; Events</h1><br>
+                            <div class="img"><img src="images/globe_12.gif" alt="Business"></div>
+                            <h2>Nov. 17, 2008.</h2>
+                            <p>Get your dream web design at no cost, no extra manpower for your professional website.</p><br>
+                            <div class="img"><img src="images/globe_16.gif" alt="Business"></div>
+                            <h2>Nov. 17, 2008.</h2>
+                            <p>Get your dream web design at no cost, no extra manpower for your professional website.</p>
+
+                        </div>
+
+                    </td>
+                </tr></table>
+
+            <div id="footer_top">
+                <div id="footer_navigation">
+
+
+                </div>
+
+                <div id="footer_copyright" >
+
+                    <center><img  alt="business"  width="196" height="106"></center><br>
+                    <p>Each people plan their site layouts depending upon their business type. Each people can do their business with website a website help a businessman to expand there business easily and shortly ..</p>
+
+                    Copyright © Limon Kanti Dey</div>
+            </div>
+
+            <script type="text/javascript">
+                document.onload = ctck();
+            </script>
+        </div>
+
+    </body>
+</html>
